@@ -1,5 +1,5 @@
 ## TodoList-TaskManiger
-This is a TodoList-TaskManiger created by (Ajax  ,  PHP  , composer).
+This is a TodoList-TaskManiger Project  (Ajax  ,  PHP  , composer).
 
 Geting Started
 ==============
