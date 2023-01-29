@@ -1,2 +1,2 @@
 # TodoList-TaskManiger
-this is TodoList-TaskManiger created by (Ajax , PHP, Composer)
+This is a TodoList-TaskManiger created by (Ajax  ,  PHP  , composer).
